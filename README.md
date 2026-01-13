@@ -41,5 +41,5 @@ I am a motivated software developer with experience in building scalable backend
 ---
 
 ## 🔹 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your@email.com
+- 💼 LinkedIn: www.linkedin.com/in/anam-arain-07/
+- 📧 Email: anamarain07@gmail.com
